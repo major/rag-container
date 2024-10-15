@@ -1,0 +1,5 @@
+faiss-cpu
+huggingface-hub
+llama-index-embeddings-huggingface
+llama-index-readers-file
+llama-index-vector-stores-faiss
