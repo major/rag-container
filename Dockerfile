@@ -1,4 +1,4 @@
-FROM docker.io/library/python:3.12
+FROM docker.io/pytorch/pytorch:latest
 WORKDIR /app
 
 COPY requirements.txt /app
