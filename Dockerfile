@@ -7,4 +7,4 @@ COPY requirements.txt /app
 RUN pip install -r requirements.txt
 
 COPY ragify.py /app
-RUN python ragify.py
+RUN python get_model.py
